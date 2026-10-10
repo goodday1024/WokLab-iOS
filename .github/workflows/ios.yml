@@ -24,6 +24,9 @@ jobs:
           mkdir -p package/Payload
           cp -R build/Build/Products/Release-iphoneos/WokLab.app package/Payload/
           test -f package/Payload/WokLab.app/WokLab
+          test -f package/Payload/WokLab.app/Catalog.json
+          test -f package/Payload/WokLab.app/Ingredients.png
+          test -f package/Payload/WokLab.app/Prepared.png
           cd package && zip -qry ../WokLab-unsigned.ipa Payload
       - uses: actions/upload-artifact@v4
         with:
