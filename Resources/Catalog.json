@@ -1,0 +1,2139 @@
+{
+  "ingredients": [
+    {
+      "id": 0,
+      "name": "番茄",
+      "category": "蔬菜"
+    },
+    {
+      "id": 1,
+      "name": "鸡蛋",
+      "category": "肉蛋水产"
+    },
+    {
+      "id": 2,
+      "name": "土豆",
+      "category": "蔬菜"
+    },
+    {
+      "id": 3,
+      "name": "胡萝卜",
+      "category": "蔬菜"
+    },
+    {
+      "id": 4,
+      "name": "西兰花",
+      "category": "蔬菜"
+    },
+    {
+      "id": 5,
+      "name": "小白菜",
+      "category": "蔬菜"
+    },
+    {
+      "id": 6,
+      "name": "卷心菜",
+      "category": "蔬菜"
+    },
+    {
+      "id": 7,
+      "name": "菠菜",
+      "category": "蔬菜"
+    },
+    {
+      "id": 8,
+      "name": "茄子",
+      "category": "蔬菜"
+    },
+    {
+      "id": 9,
+      "name": "黄瓜",
+      "category": "蔬菜"
+    },
+    {
+      "id": 10,
+      "name": "青椒",
+      "category": "蔬菜"
+    },
+    {
+      "id": 11,
+      "name": "红椒",
+      "category": "蔬菜"
+    },
+    {
+      "id": 12,
+      "name": "洋葱",
+      "category": "蔬菜"
+    },
+    {
+      "id": 13,
+      "name": "大蒜",
+      "category": "蔬菜"
+    },
+    {
+      "id": 14,
+      "name": "生姜",
+      "category": "蔬菜"
+    },
+    {
+      "id": 15,
+      "name": "小葱",
+      "category": "蔬菜"
+    },
+    {
+      "id": 16,
+      "name": "猪肉",
+      "category": "肉蛋水产"
+    },
+    {
+      "id": 17,
+      "name": "牛肉",
+      "category": "肉蛋水产"
+    },
+    {
+      "id": 18,
+      "name": "鸡胸肉",
+      "category": "肉蛋水产"
+    },
+    {
+      "id": 19,
+      "name": "虾仁",
+      "category": "肉蛋水产"
+    },
+    {
+      "id": 20,
+      "name": "鱼片",
+      "category": "肉蛋水产"
+    },
+    {
+      "id": 21,
+      "name": "五花肉",
+      "category": "肉蛋水产"
+    },
+    {
+      "id": 22,
+      "name": "排骨",
+      "category": "肉蛋水产"
+    },
+    {
+      "id": 23,
+      "name": "猪肉馅",
+      "category": "肉蛋水产"
+    },
+    {
+      "id": 24,
+      "name": "豆腐",
+      "category": "豆制品菌菇"
+    },
+    {
+      "id": 25,
+      "name": "香菇",
+      "category": "豆制品菌菇"
+    },
+    {
+      "id": 26,
+      "name": "口蘑",
+      "category": "豆制品菌菇"
+    },
+    {
+      "id": 27,
+      "name": "木耳",
+      "category": "豆制品菌菇"
+    },
+    {
+      "id": 28,
+      "name": "金针菇",
+      "category": "豆制品菌菇"
+    },
+    {
+      "id": 29,
+      "name": "莲藕",
+      "category": "蔬菜"
+    },
+    {
+      "id": 30,
+      "name": "西葫芦",
+      "category": "蔬菜"
+    },
+    {
+      "id": 31,
+      "name": "南瓜",
+      "category": "蔬菜"
+    },
+    {
+      "id": 32,
+      "name": "豌豆",
+      "category": "蔬菜"
+    },
+    {
+      "id": 33,
+      "name": "玉米",
+      "category": "蔬菜"
+    },
+    {
+      "id": 34,
+      "name": "四季豆",
+      "category": "蔬菜"
+    },
+    {
+      "id": 35,
+      "name": "豆芽",
+      "category": "蔬菜"
+    },
+    {
+      "id": 36,
+      "name": "韭菜",
+      "category": "蔬菜"
+    },
+    {
+      "id": 37,
+      "name": "芹菜",
+      "category": "蔬菜"
+    },
+    {
+      "id": 38,
+      "name": "花菜",
+      "category": "蔬菜"
+    },
+    {
+      "id": 39,
+      "name": "生菜",
+      "category": "蔬菜"
+    },
+    {
+      "id": 40,
+      "name": "米饭",
+      "category": "主食坚果"
+    },
+    {
+      "id": 41,
+      "name": "面条",
+      "category": "主食坚果"
+    },
+    {
+      "id": 42,
+      "name": "花生",
+      "category": "主食坚果"
+    },
+    {
+      "id": 43,
+      "name": "腰果",
+      "category": "主食坚果"
+    },
+    {
+      "id": 44,
+      "name": "干辣椒",
+      "category": "调味料"
+    },
+    {
+      "id": 45,
+      "name": "花椒",
+      "category": "调味料"
+    },
+    {
+      "id": 46,
+      "name": "香菜",
+      "category": "调味料"
+    },
+    {
+      "id": 47,
+      "name": "芝麻",
+      "category": "调味料"
+    },
+    {
+      "id": 48,
+      "name": "食用油",
+      "category": "调味料"
+    },
+    {
+      "id": 49,
+      "name": "生抽",
+      "category": "调味料"
+    },
+    {
+      "id": 50,
+      "name": "盐",
+      "category": "调味料"
+    },
+    {
+      "id": 51,
+      "name": "糖",
+      "category": "调味料"
+    },
+    {
+      "id": 52,
+      "name": "淀粉",
+      "category": "调味料"
+    },
+    {
+      "id": 53,
+      "name": "豆瓣酱",
+      "category": "调味料"
+    },
+    {
+      "id": 54,
+      "name": "醋",
+      "category": "调味料"
+    },
+    {
+      "id": 55,
+      "name": "辣椒油",
+      "category": "调味料"
+    },
+    {
+      "id": 56,
+      "name": "鸭肉",
+      "category": "肉蛋水产"
+    },
+    {
+      "id": 57,
+      "name": "鱿鱼",
+      "category": "肉蛋水产"
+    },
+    {
+      "id": 58,
+      "name": "蛤蜊",
+      "category": "肉蛋水产"
+    },
+    {
+      "id": 59,
+      "name": "贻贝",
+      "category": "肉蛋水产"
+    },
+    {
+      "id": 60,
+      "name": "芦笋",
+      "category": "蔬菜"
+    },
+    {
+      "id": 61,
+      "name": "竹笋",
+      "category": "蔬菜"
+    },
+    {
+      "id": 62,
+      "name": "山药",
+      "category": "蔬菜"
+    },
+    {
+      "id": 63,
+      "name": "红薯",
+      "category": "蔬菜"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "dish01",
+      "name": "番茄炒蛋",
+      "subtitle": "软嫩鸡蛋 · 酸甜番茄",
+      "ingredients": [
+        0,
+        1,
+        15
+      ],
+      "grams": "2 人份：番茄 400g、鸡蛋 3 个、油 20ml、盐 3g、糖 4g",
+      "steps": [
+        {
+          "title": "清洗蔬菜",
+          "station": "洗菜池",
+          "ingredients": [
+            0,
+            15
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "流水清洗蔬菜；滑动搓洗后沥干。生肉不在此水池冲洗。",
+          "action": "wash"
+        },
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            0,
+            15
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "番茄切 2cm 块，小葱切末。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "调味备料",
+          "station": "备料台",
+          "ingredients": [
+            1,
+            50
+          ],
+          "seconds": 45,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "打散鸡蛋，加少许盐。滑动拌匀。",
+          "action": "mix"
+        },
+        {
+          "title": "炒蛋并盛出",
+          "station": "炒锅",
+          "ingredients": [
+            1
+          ],
+          "seconds": 60,
+          "tolerance": 20,
+          "heat": 0.6,
+          "instruction": "中火推炒至凝固，盛出备用",
+          "action": "stir"
+        },
+        {
+          "title": "炒软番茄",
+          "station": "炒锅",
+          "ingredients": [
+            0,
+            15
+          ],
+          "seconds": 60,
+          "tolerance": 15,
+          "heat": 0.8,
+          "instruction": "补少量油，番茄和葱入锅",
+          "action": "stir"
+        },
+        {
+          "title": "合炒焖软",
+          "station": "煮锅",
+          "ingredients": [
+            0,
+            1
+          ],
+          "seconds": 90,
+          "tolerance": 30,
+          "heat": 0.9,
+          "instruction": "熟鸡蛋回锅，加盐糖与少量水，焖至番茄软化",
+          "action": "simmer"
+        },
+        {
+          "title": "收汁出锅",
+          "station": "炒锅",
+          "ingredients": [
+            0,
+            1
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0.6,
+          "instruction": "翻匀收汁，避免鸡蛋过老",
+          "action": "stir"
+        }
+      ],
+      "source": "https://thewoksoflife.com/stir-fried-tomato-and-egg/"
+    },
+    {
+      "id": "dish02",
+      "name": "酸辣土豆丝",
+      "subtitle": "细丝脆口 · 沿边烹醋",
+      "ingredients": [
+        2,
+        44,
+        54
+      ],
+      "grams": "2 人份：土豆 350g，油 15ml，醋 12ml，盐 3g",
+      "steps": [
+        {
+          "title": "清洗蔬菜",
+          "station": "洗菜池",
+          "ingredients": [
+            2
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "流水清洗蔬菜；滑动搓洗后沥干。生肉不在此水池冲洗。",
+          "action": "wash"
+        },
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            2
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "去皮切 2mm 细丝。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "清洗蔬菜",
+          "station": "洗菜池",
+          "ingredients": [
+            2
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "流水清洗蔬菜；滑动搓洗后沥干。生肉不在此水池冲洗。",
+          "action": "wash"
+        },
+        {
+          "title": "调味备料",
+          "station": "备料台",
+          "ingredients": [
+            44,
+            54,
+            50
+          ],
+          "seconds": 45,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "备干辣椒、醋和盐。滑动拌匀。",
+          "action": "mix"
+        },
+        {
+          "title": "煸香干辣椒",
+          "station": "炒锅",
+          "ingredients": [
+            44
+          ],
+          "seconds": 20,
+          "tolerance": 10,
+          "heat": 0.4,
+          "instruction": "小火煸香，不炒黑",
+          "action": "stir"
+        },
+        {
+          "title": "炒土豆丝",
+          "station": "炒锅",
+          "ingredients": [
+            2,
+            44
+          ],
+          "seconds": 150,
+          "tolerance": 30,
+          "heat": 0.85,
+          "instruction": "沥干后下锅，大火不断翻炒",
+          "action": "stir"
+        },
+        {
+          "title": "烹醋调味",
+          "station": "炒锅",
+          "ingredients": [
+            2,
+            54
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0.75,
+          "instruction": "沿锅边加入醋与盐，翻匀出锅",
+          "action": "stir"
+        }
+      ],
+      "source": "https://thewoksoflife.com/sichuan-stir-fried-potatoes/"
+    },
+    {
+      "id": "dish03",
+      "name": "蒜蓉西兰花",
+      "subtitle": "鲜绿爽脆 · 先焯后炒",
+      "ingredients": [
+        4,
+        13
+      ],
+      "grams": "2 人份：西兰花 350g、蒜 15g、油 12ml、盐 3g",
+      "steps": [
+        {
+          "title": "清洗蔬菜",
+          "station": "洗菜池",
+          "ingredients": [
+            4
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "流水清洗蔬菜；滑动搓洗后沥干。生肉不在此水池冲洗。",
+          "action": "wash"
+        },
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            4,
+            13
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "西兰花分成 3cm 小朵，蒜切末。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "焯水沥干",
+          "station": "煮锅",
+          "ingredients": [
+            4
+          ],
+          "seconds": 60,
+          "tolerance": 20,
+          "heat": 1,
+          "instruction": "沸水焯至鲜绿，捞出沥干",
+          "action": "simmer"
+        },
+        {
+          "title": "炒香蒜末",
+          "station": "炒锅",
+          "ingredients": [
+            13
+          ],
+          "seconds": 20,
+          "tolerance": 10,
+          "heat": 0.4,
+          "instruction": "小火炒蒜，避免焦黄",
+          "action": "stir"
+        },
+        {
+          "title": "翻炒调味",
+          "station": "炒锅",
+          "ingredients": [
+            4,
+            13
+          ],
+          "seconds": 90,
+          "tolerance": 20,
+          "heat": 0.7,
+          "instruction": "西兰花回锅，加盐与少量水翻匀",
+          "action": "stir"
+        }
+      ],
+      "source": "https://thewoksoflife.com/garlicky-broccoli/"
+    },
+    {
+      "id": "dish04",
+      "name": "手撕包菜",
+      "subtitle": "锅边焦香 · 叶片脆嫩",
+      "ingredients": [
+        6,
+        13,
+        44
+      ],
+      "grams": "2 人份：卷心菜 350g、蒜 10g、油 15ml、生抽 8ml",
+      "steps": [
+        {
+          "title": "清洗蔬菜",
+          "station": "洗菜池",
+          "ingredients": [
+            6
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "流水清洗蔬菜；滑动搓洗后沥干。生肉不在此水池冲洗。",
+          "action": "wash"
+        },
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            6,
+            13
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "包菜手撕成片，厚梗分开。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "调味备料",
+          "station": "备料台",
+          "ingredients": [
+            49,
+            54
+          ],
+          "seconds": 45,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "调生抽 8ml 与醋 5ml。滑动拌匀。",
+          "action": "mix"
+        },
+        {
+          "title": "煸香蒜椒",
+          "station": "炒锅",
+          "ingredients": [
+            13,
+            44
+          ],
+          "seconds": 20,
+          "tolerance": 10,
+          "heat": 0.4,
+          "instruction": "小火煸香蒜片和干辣椒",
+          "action": "stir"
+        },
+        {
+          "title": "炒包菜",
+          "station": "炒锅",
+          "ingredients": [
+            6
+          ],
+          "seconds": 150,
+          "tolerance": 30,
+          "heat": 0.85,
+          "instruction": "先炒厚梗再拌入叶片，大火翻炒",
+          "action": "stir"
+        },
+        {
+          "title": "调味出锅",
+          "station": "炒锅",
+          "ingredients": [
+            6,
+            49
+          ],
+          "seconds": 30,
+          "tolerance": 10,
+          "heat": 0.75,
+          "instruction": "淋入调味汁，迅速翻匀",
+          "action": "stir"
+        }
+      ],
+      "source": "https://thewoksoflife.com/chinese-cabbage-stir-fry/"
+    },
+    {
+      "id": "dish05",
+      "name": "清炒小白菜",
+      "subtitle": "清鲜少油 · 梗叶分炒",
+      "ingredients": [
+        5,
+        13
+      ],
+      "grams": "2 人份：小白菜 350g、蒜 10g、油 12ml、盐 3g",
+      "steps": [
+        {
+          "title": "清洗蔬菜",
+          "station": "洗菜池",
+          "ingredients": [
+            5
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "流水清洗蔬菜；滑动搓洗后沥干。生肉不在此水池冲洗。",
+          "action": "wash"
+        },
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            5,
+            13
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "梗叶分开，蒜切片。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "炒香蒜片",
+          "station": "炒锅",
+          "ingredients": [
+            13
+          ],
+          "seconds": 15,
+          "tolerance": 8,
+          "heat": 0.4,
+          "instruction": "温油下蒜片",
+          "action": "stir"
+        },
+        {
+          "title": "先炒菜梗",
+          "station": "炒锅",
+          "ingredients": [
+            5
+          ],
+          "seconds": 60,
+          "tolerance": 15,
+          "heat": 0.8,
+          "instruction": "先放较厚菜梗，翻炒受热",
+          "action": "stir"
+        },
+        {
+          "title": "加入菜叶",
+          "station": "炒锅",
+          "ingredients": [
+            5
+          ],
+          "seconds": 60,
+          "tolerance": 20,
+          "heat": 0.8,
+          "instruction": "加入叶片和盐，炒至刚软",
+          "action": "stir"
+        }
+      ],
+      "source": "https://thewoksoflife.com/stir-fried-bok-choy-recipe/"
+    },
+    {
+      "id": "dish06",
+      "name": "韭菜炒蛋",
+      "subtitle": "蛋香柔嫩 · 韭菜鲜香",
+      "ingredients": [
+        36,
+        1
+      ],
+      "grams": "2 人份：韭菜 150g、鸡蛋 3 个、油 15ml、盐 3g",
+      "steps": [
+        {
+          "title": "清洗蔬菜",
+          "station": "洗菜池",
+          "ingredients": [
+            36
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "流水清洗蔬菜；滑动搓洗后沥干。生肉不在此水池冲洗。",
+          "action": "wash"
+        },
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            36
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "韭菜切成 3cm 段。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "调味备料",
+          "station": "备料台",
+          "ingredients": [
+            1,
+            50
+          ],
+          "seconds": 45,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "打散鸡蛋，盐调味。滑动拌匀。",
+          "action": "mix"
+        },
+        {
+          "title": "炒鸡蛋",
+          "station": "炒锅",
+          "ingredients": [
+            1
+          ],
+          "seconds": 60,
+          "tolerance": 20,
+          "heat": 0.6,
+          "instruction": "中火推炒蛋液至凝固",
+          "action": "stir"
+        },
+        {
+          "title": "加入韭菜",
+          "station": "炒锅",
+          "ingredients": [
+            1,
+            36
+          ],
+          "seconds": 60,
+          "tolerance": 20,
+          "heat": 0.7,
+          "instruction": "加韭菜迅速翻炒至断生",
+          "action": "stir"
+        }
+      ],
+      "source": "https://thewoksoflife.com/chinese-chives-eggs/"
+    },
+    {
+      "id": "dish07",
+      "name": "虾仁滑蛋",
+      "subtitle": "虾仁弹嫩 · 蛋层柔软",
+      "ingredients": [
+        19,
+        1,
+        15
+      ],
+      "grams": "2 人份：虾仁 180g、鸡蛋 3 个、淀粉 3g、油 15ml",
+      "steps": [
+        {
+          "title": "清洗蔬菜",
+          "station": "洗菜池",
+          "ingredients": [
+            15
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "流水清洗蔬菜；滑动搓洗后沥干。生肉不在此水池冲洗。",
+          "action": "wash"
+        },
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            19,
+            15
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "虾仁去虾线，小葱切末，生熟工具分开。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "调味备料",
+          "station": "备料台",
+          "ingredients": [
+            19,
+            52,
+            50
+          ],
+          "seconds": 120,
+          "tolerance": 18.0,
+          "heat": 0,
+          "instruction": "虾仁拌少许盐与淀粉，鸡蛋另碗打散。滑动拌匀。",
+          "action": "mix"
+        },
+        {
+          "title": "炒熟虾仁",
+          "station": "炒锅",
+          "ingredients": [
+            19
+          ],
+          "seconds": 120,
+          "tolerance": 30,
+          "heat": 0.7,
+          "instruction": "炒至虾仁不透明后盛出",
+          "action": "stir"
+        },
+        {
+          "title": "虾仁滑蛋",
+          "station": "炒锅",
+          "ingredients": [
+            19,
+            1,
+            15
+          ],
+          "seconds": 90,
+          "tolerance": 20,
+          "heat": 0.5,
+          "instruction": "下蛋液再加入虾仁，中小火推成蛋层",
+          "action": "stir"
+        }
+      ],
+      "source": "https://thewoksoflife.com/shrimp-and-eggs/"
+    },
+    {
+      "id": "dish08",
+      "name": "青椒肉丝",
+      "subtitle": "嫩滑肉丝 · 青椒清香",
+      "ingredients": [
+        16,
+        10
+      ],
+      "grams": "2 人份：猪肉 200g、青椒 180g、淀粉 5g、油 20ml",
+      "steps": [
+        {
+          "title": "清洗蔬菜",
+          "station": "洗菜池",
+          "ingredients": [
+            10
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "流水清洗蔬菜；滑动搓洗后沥干。生肉不在此水池冲洗。",
+          "action": "wash"
+        },
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            16,
+            10
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "肉逆纹切 3mm 丝，青椒切丝。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "调味备料",
+          "station": "备料台",
+          "ingredients": [
+            16,
+            49,
+            52
+          ],
+          "seconds": 600,
+          "tolerance": 90.0,
+          "heat": 0,
+          "instruction": "肉丝用生抽、淀粉和少量水上浆。滑动拌匀。",
+          "action": "mix"
+        },
+        {
+          "title": "滑炒肉丝",
+          "station": "炒锅",
+          "ingredients": [
+            16
+          ],
+          "seconds": 120,
+          "tolerance": 30,
+          "heat": 0.75,
+          "instruction": "炒至变色熟透后盛出",
+          "action": "stir"
+        },
+        {
+          "title": "炒青椒",
+          "station": "炒锅",
+          "ingredients": [
+            10
+          ],
+          "seconds": 90,
+          "tolerance": 20,
+          "heat": 0.8,
+          "instruction": "炒至略软仍脆",
+          "action": "stir"
+        },
+        {
+          "title": "合炒调味",
+          "station": "炒锅",
+          "ingredients": [
+            16,
+            10,
+            49
+          ],
+          "seconds": 45,
+          "tolerance": 15,
+          "heat": 0.75,
+          "instruction": "肉丝回锅，加生抽翻匀",
+          "action": "stir"
+        }
+      ],
+      "source": "https://thewoksoflife.com/shredded-pork-stir-fry/"
+    },
+    {
+      "id": "dish09",
+      "name": "洋葱炒牛肉",
+      "subtitle": "逆纹薄切 · 快炒多汁",
+      "ingredients": [
+        17,
+        12
+      ],
+      "grams": "2 人份：牛肉 220g、洋葱 180g、生抽 12ml、淀粉 5g",
+      "steps": [
+        {
+          "title": "清洗蔬菜",
+          "station": "洗菜池",
+          "ingredients": [
+            12
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "流水清洗蔬菜；滑动搓洗后沥干。生肉不在此水池冲洗。",
+          "action": "wash"
+        },
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            17,
+            12
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "牛肉逆纹切 3mm 薄片，洋葱切条。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "调味备料",
+          "station": "备料台",
+          "ingredients": [
+            17,
+            49,
+            52
+          ],
+          "seconds": 600,
+          "tolerance": 90.0,
+          "heat": 0,
+          "instruction": "牛肉以生抽、淀粉和少量油腌制。滑动拌匀。",
+          "action": "mix"
+        },
+        {
+          "title": "煎炒牛肉",
+          "station": "炒锅",
+          "ingredients": [
+            17
+          ],
+          "seconds": 120,
+          "tolerance": 25,
+          "heat": 0.85,
+          "instruction": "薄片摊开后翻炒并盛出",
+          "action": "stir"
+        },
+        {
+          "title": "炒软洋葱",
+          "station": "炒锅",
+          "ingredients": [
+            12
+          ],
+          "seconds": 120,
+          "tolerance": 25,
+          "heat": 0.75,
+          "instruction": "炒至边缘透明",
+          "action": "stir"
+        },
+        {
+          "title": "合炒挂汁",
+          "station": "炒锅",
+          "ingredients": [
+            17,
+            12,
+            49
+          ],
+          "seconds": 45,
+          "tolerance": 15,
+          "heat": 0.8,
+          "instruction": "牛肉回锅，快速翻匀",
+          "action": "stir"
+        }
+      ],
+      "source": "https://thewoksoflife.com/beef-onion-stir-fry/"
+    },
+    {
+      "id": "dish10",
+      "name": "宫保鸡丁",
+      "subtitle": "分次炒制 · 花生最后加入",
+      "ingredients": [
+        18,
+        42,
+        44,
+        15
+      ],
+      "grams": "2 人份：鸡肉 250g、熟花生 40g、葱 40g，生抽 12ml、醋 10ml、糖 6g",
+      "steps": [
+        {
+          "title": "清洗蔬菜",
+          "station": "洗菜池",
+          "ingredients": [
+            15
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "流水清洗蔬菜；滑动搓洗后沥干。生肉不在此水池冲洗。",
+          "action": "wash"
+        },
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            18,
+            15
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "鸡肉切 1.5cm 丁，葱切段。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "调味备料",
+          "station": "备料台",
+          "ingredients": [
+            18,
+            49,
+            52
+          ],
+          "seconds": 900,
+          "tolerance": 135.0,
+          "heat": 0,
+          "instruction": "鸡肉上浆腌制；另调糖醋生抽汁。滑动拌匀。",
+          "action": "mix"
+        },
+        {
+          "title": "煎炒鸡丁",
+          "station": "炒锅",
+          "ingredients": [
+            18
+          ],
+          "seconds": 180,
+          "tolerance": 40,
+          "heat": 0.8,
+          "instruction": "鸡丁炒熟后盛出，真实烹饪中心达到 74°C",
+          "action": "stir"
+        },
+        {
+          "title": "低火煸香",
+          "station": "炒锅",
+          "ingredients": [
+            13,
+            14,
+            44,
+            45,
+            15
+          ],
+          "seconds": 60,
+          "tolerance": 20,
+          "heat": 0.35,
+          "instruction": "蒜姜椒葱小火煸香",
+          "action": "stir"
+        },
+        {
+          "title": "鸡丁回锅",
+          "station": "炒锅",
+          "ingredients": [
+            18,
+            15
+          ],
+          "seconds": 60,
+          "tolerance": 15,
+          "heat": 0.85,
+          "instruction": "转大火翻炒",
+          "action": "stir"
+        },
+        {
+          "title": "淋汁挂芡",
+          "station": "炒锅",
+          "ingredients": [
+            18,
+            49,
+            52
+          ],
+          "seconds": 60,
+          "tolerance": 15,
+          "heat": 0.75,
+          "instruction": "调味汁重新搅匀再下锅",
+          "action": "stir"
+        },
+        {
+          "title": "拌入熟花生",
+          "station": "炒锅",
+          "ingredients": [
+            18,
+            42
+          ],
+          "seconds": 15,
+          "tolerance": 8,
+          "heat": 0.4,
+          "instruction": "最后加入熟花生，翻匀立即出锅",
+          "action": "stir"
+        }
+      ],
+      "source": "https://thewoksoflife.com/kung-pao-chicken/"
+    },
+    {
+      "id": "dish11",
+      "name": "麻婆豆腐",
+      "subtitle": "轻推豆腐 · 分次勾芡",
+      "ingredients": [
+        24,
+        23,
+        53,
+        45
+      ],
+      "grams": "2 人份：豆腐 400g、肉馅 100g、豆瓣酱 18g、水 180ml、淀粉 6g",
+      "steps": [
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            24,
+            13,
+            14
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "豆腐切 2cm 块，姜蒜切末。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "豆腐焯水",
+          "station": "煮锅",
+          "ingredients": [
+            24
+          ],
+          "seconds": 120,
+          "tolerance": 30,
+          "heat": 0.95,
+          "instruction": "淡盐水焯豆腐，捞出备用",
+          "action": "simmer"
+        },
+        {
+          "title": "炒肉末",
+          "station": "炒锅",
+          "ingredients": [
+            23
+          ],
+          "seconds": 150,
+          "tolerance": 30,
+          "heat": 0.7,
+          "instruction": "炒散至熟透",
+          "action": "stir"
+        },
+        {
+          "title": "炒红油",
+          "station": "炒锅",
+          "ingredients": [
+            23,
+            53,
+            13,
+            14
+          ],
+          "seconds": 60,
+          "tolerance": 20,
+          "heat": 0.4,
+          "instruction": "下豆瓣和姜蒜小火炒香",
+          "action": "stir"
+        },
+        {
+          "title": "煨豆腐",
+          "station": "煮锅",
+          "ingredients": [
+            24,
+            23,
+            53
+          ],
+          "seconds": 240,
+          "tolerance": 60,
+          "heat": 0.9,
+          "instruction": "加入水和豆腐，小火煨入味，轻推不铲碎",
+          "action": "simmer"
+        },
+        {
+          "title": "勾芡撒花椒",
+          "station": "炒锅",
+          "ingredients": [
+            24,
+            52,
+            45
+          ],
+          "seconds": 45,
+          "tolerance": 15,
+          "heat": 0.5,
+          "instruction": "分次淋水淀粉，轻推至挂汁",
+          "action": "stir"
+        }
+      ],
+      "source": "https://thewoksoflife.com/ma-po-tofu-real-deal/"
+    },
+    {
+      "id": "dish12",
+      "name": "鱼香茄子",
+      "subtitle": "茄条软糯 · 咸甜酸辣",
+      "ingredients": [
+        8,
+        23,
+        53,
+        13
+      ],
+      "grams": "2 人份：茄子 350g、肉馅 80g、油 25ml、醋 12ml、糖 8g",
+      "steps": [
+        {
+          "title": "清洗蔬菜",
+          "station": "洗菜池",
+          "ingredients": [
+            8
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "流水清洗蔬菜；滑动搓洗后沥干。生肉不在此水池冲洗。",
+          "action": "wash"
+        },
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            8,
+            13
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "茄子切 1.5cm 条，蒜切末。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "调味备料",
+          "station": "备料台",
+          "ingredients": [
+            49,
+            54,
+            51,
+            52
+          ],
+          "seconds": 45,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "调生抽、醋、糖与水淀粉。滑动拌匀。",
+          "action": "mix"
+        },
+        {
+          "title": "煎软茄条",
+          "station": "炒锅",
+          "ingredients": [
+            8
+          ],
+          "seconds": 360,
+          "tolerance": 75,
+          "heat": 0.6,
+          "instruction": "中火煎炒到茄条软化后盛出",
+          "action": "stir"
+        },
+        {
+          "title": "肉末炒香",
+          "station": "炒锅",
+          "ingredients": [
+            23,
+            13,
+            53
+          ],
+          "seconds": 180,
+          "tolerance": 40,
+          "heat": 0.6,
+          "instruction": "先炒熟肉末，再加蒜末豆瓣",
+          "action": "stir"
+        },
+        {
+          "title": "茄子合炒",
+          "station": "炒锅",
+          "ingredients": [
+            8,
+            23,
+            49
+          ],
+          "seconds": 90,
+          "tolerance": 25,
+          "heat": 0.65,
+          "instruction": "回锅后淋汁，轻翻至挂汁",
+          "action": "stir"
+        }
+      ],
+      "source": "https://thewoksoflife.com/fish-fragrant-eggplant-yuxiang-qiezi/"
+    },
+    {
+      "id": "dish13",
+      "name": "回锅肉",
+      "subtitle": "先煮后炒 · 肥瘦卷边",
+      "ingredients": [
+        21,
+        10,
+        53
+      ],
+      "grams": "2 人份：五花肉 300g、青椒 150g、豆瓣酱 15g",
+      "steps": [
+        {
+          "title": "清洗蔬菜",
+          "station": "洗菜池",
+          "ingredients": [
+            10
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "流水清洗蔬菜；滑动搓洗后沥干。生肉不在此水池冲洗。",
+          "action": "wash"
+        },
+        {
+          "title": "煮熟五花肉",
+          "station": "煮锅",
+          "ingredients": [
+            21,
+            14
+          ],
+          "seconds": 1500,
+          "tolerance": 300,
+          "heat": 0.95,
+          "instruction": "整块肉煮熟，捞出稍凉",
+          "action": "simmer"
+        },
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            21,
+            10
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "熟肉切 2mm 薄片，青椒切块。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "煸出油脂",
+          "station": "炒锅",
+          "ingredients": [
+            21
+          ],
+          "seconds": 180,
+          "tolerance": 40,
+          "heat": 0.65,
+          "instruction": "中火煸到肉片卷边",
+          "action": "stir"
+        },
+        {
+          "title": "加入豆瓣",
+          "station": "炒锅",
+          "ingredients": [
+            21,
+            53
+          ],
+          "seconds": 45,
+          "tolerance": 15,
+          "heat": 0.4,
+          "instruction": "小火炒出红油",
+          "action": "stir"
+        },
+        {
+          "title": "合炒青椒",
+          "station": "炒锅",
+          "ingredients": [
+            21,
+            10
+          ],
+          "seconds": 120,
+          "tolerance": 30,
+          "heat": 0.8,
+          "instruction": "大火翻匀至青椒断生",
+          "action": "stir"
+        }
+      ],
+      "source": "https://thewoksoflife.com/twice-cooked-pork/"
+    },
+    {
+      "id": "dish14",
+      "name": "红烧肉",
+      "subtitle": "慢煨酥软 · 浓汁包裹",
+      "ingredients": [
+        21,
+        51,
+        49
+      ],
+      "grams": "2 人份：五花肉 500g、糖 20g、生抽 25ml、水 600ml",
+      "steps": [
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            21,
+            14
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "五花肉切 3cm 块，姜切片。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "焯肉撇沫",
+          "station": "煮锅",
+          "ingredients": [
+            21,
+            14
+          ],
+          "seconds": 300,
+          "tolerance": 60,
+          "heat": 1,
+          "instruction": "冷水下肉，沸后撇沫捞出",
+          "action": "simmer"
+        },
+        {
+          "title": "炒糖色",
+          "station": "炒锅",
+          "ingredients": [
+            51,
+            48
+          ],
+          "seconds": 90,
+          "tolerance": 25,
+          "heat": 0.35,
+          "instruction": "小火炒糖至琥珀色，避免焦苦",
+          "action": "stir"
+        },
+        {
+          "title": "肉块上色",
+          "station": "炒锅",
+          "ingredients": [
+            21,
+            49
+          ],
+          "seconds": 120,
+          "tolerance": 30,
+          "heat": 0.6,
+          "instruction": "肉块沥干回锅，加入生抽翻匀",
+          "action": "stir"
+        },
+        {
+          "title": "慢煨红烧肉",
+          "station": "煮锅",
+          "ingredients": [
+            21,
+            14
+          ],
+          "seconds": 3600,
+          "tolerance": 600,
+          "heat": 0.9,
+          "instruction": "加热水，小火保持微沸，水少及时补水",
+          "action": "simmer"
+        },
+        {
+          "title": "开盖收汁",
+          "station": "炒锅",
+          "ingredients": [
+            21,
+            49
+          ],
+          "seconds": 180,
+          "tolerance": 45,
+          "heat": 0.6,
+          "instruction": "翻动收浓汤汁，避免糊底",
+          "action": "stir"
+        }
+      ],
+      "source": "https://thewoksoflife.com/shanghai-style-braised-pork-belly/"
+    },
+    {
+      "id": "dish15",
+      "name": "糖醋排骨",
+      "subtitle": "先焖酥软 · 后裹亮汁",
+      "ingredients": [
+        22,
+        51,
+        54
+      ],
+      "grams": "2 人份：排骨 500g、糖 25g、醋 30ml、生抽 20ml",
+      "steps": [
+        {
+          "title": "排骨焯水",
+          "station": "煮锅",
+          "ingredients": [
+            22,
+            14
+          ],
+          "seconds": 300,
+          "tolerance": 60,
+          "heat": 1,
+          "instruction": "冷水入锅，沸后撇沫捞出",
+          "action": "simmer"
+        },
+        {
+          "title": "调味备料",
+          "station": "备料台",
+          "ingredients": [
+            51,
+            54,
+            49
+          ],
+          "seconds": 45,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "调糖醋汁，留少许醋在收汁时加入。滑动拌匀。",
+          "action": "mix"
+        },
+        {
+          "title": "煎香排骨",
+          "station": "炒锅",
+          "ingredients": [
+            22
+          ],
+          "seconds": 240,
+          "tolerance": 60,
+          "heat": 0.65,
+          "instruction": "沥干后煎至表面微黄",
+          "action": "stir"
+        },
+        {
+          "title": "焖煮排骨",
+          "station": "煮锅",
+          "ingredients": [
+            22,
+            49,
+            54
+          ],
+          "seconds": 2400,
+          "tolerance": 480,
+          "heat": 0.9,
+          "instruction": "加水及调味汁，微沸焖煮到肉软",
+          "action": "simmer"
+        },
+        {
+          "title": "收汁挂亮",
+          "station": "炒锅",
+          "ingredients": [
+            22,
+            51,
+            54
+          ],
+          "seconds": 180,
+          "tolerance": 45,
+          "heat": 0.6,
+          "instruction": "收浓后补少许醋，翻动挂汁",
+          "action": "stir"
+        }
+      ],
+      "source": "https://thewoksoflife.com/shanghai-sweet-sour-ribs/"
+    },
+    {
+      "id": "dish16",
+      "name": "蛋炒饭",
+      "subtitle": "粒粒分明 · 蛋香葱香",
+      "ingredients": [
+        40,
+        1,
+        15
+      ],
+      "grams": "1–2 人份：妥善冷藏米饭 300g、鸡蛋 2 个、油 15ml",
+      "steps": [
+        {
+          "title": "清洗蔬菜",
+          "station": "洗菜池",
+          "ingredients": [
+            15
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "流水清洗蔬菜；滑动搓洗后沥干。生肉不在此水池冲洗。",
+          "action": "wash"
+        },
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            15
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "葱切末。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "调味备料",
+          "station": "备料台",
+          "ingredients": [
+            1,
+            40
+          ],
+          "seconds": 45,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "打散鸡蛋，冷藏米饭拨松。滑动拌匀。",
+          "action": "mix"
+        },
+        {
+          "title": "炒蛋盛出",
+          "station": "炒锅",
+          "ingredients": [
+            1
+          ],
+          "seconds": 60,
+          "tolerance": 20,
+          "heat": 0.65,
+          "instruction": "蛋液炒成小块，暂时盛出",
+          "action": "stir"
+        },
+        {
+          "title": "炒散米饭",
+          "station": "炒锅",
+          "ingredients": [
+            40
+          ],
+          "seconds": 180,
+          "tolerance": 40,
+          "heat": 0.8,
+          "instruction": "米饭压散并翻炒至充分热透",
+          "action": "stir"
+        },
+        {
+          "title": "鸡蛋回锅",
+          "station": "炒锅",
+          "ingredients": [
+            40,
+            1,
+            15
+          ],
+          "seconds": 60,
+          "tolerance": 20,
+          "heat": 0.75,
+          "instruction": "加盐、鸡蛋和葱末翻匀；真实剩饭再热需 74°C",
+          "action": "stir"
+        }
+      ],
+      "source": "https://thewoksoflife.com/egg-fried-rice/"
+    },
+    {
+      "id": "dish17",
+      "name": "虾仁炒饭",
+      "subtitle": "虾香鲜甜 · 三色时蔬",
+      "ingredients": [
+        40,
+        19,
+        1,
+        32,
+        3
+      ],
+      "grams": "2 人份：冷藏米饭 350g、虾仁 150g、鸡蛋 2 个、豌豆 50g",
+      "steps": [
+        {
+          "title": "清洗蔬菜",
+          "station": "洗菜池",
+          "ingredients": [
+            3
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "流水清洗蔬菜；滑动搓洗后沥干。生肉不在此水池冲洗。",
+          "action": "wash"
+        },
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            3,
+            19
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "胡萝卜切 5mm 丁，虾仁去虾线。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "调味备料",
+          "station": "备料台",
+          "ingredients": [
+            1,
+            19,
+            40
+          ],
+          "seconds": 45,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "打散蛋液，拨松米饭，虾仁调少许盐。滑动拌匀。",
+          "action": "mix"
+        },
+        {
+          "title": "炒虾盛出",
+          "station": "炒锅",
+          "ingredients": [
+            19
+          ],
+          "seconds": 120,
+          "tolerance": 30,
+          "heat": 0.7,
+          "instruction": "虾炒至不透明盛出",
+          "action": "stir"
+        },
+        {
+          "title": "炒蛋和蔬菜",
+          "station": "炒锅",
+          "ingredients": [
+            1,
+            3,
+            32
+          ],
+          "seconds": 120,
+          "tolerance": 30,
+          "heat": 0.7,
+          "instruction": "炒蛋后加胡萝卜、豌豆翻炒",
+          "action": "stir"
+        },
+        {
+          "title": "炒散米饭",
+          "station": "炒锅",
+          "ingredients": [
+            40,
+            3,
+            32
+          ],
+          "seconds": 180,
+          "tolerance": 40,
+          "heat": 0.8,
+          "instruction": "米饭翻炒至热透",
+          "action": "stir"
+        },
+        {
+          "title": "虾仁回锅",
+          "station": "炒锅",
+          "ingredients": [
+            40,
+            19,
+            1
+          ],
+          "seconds": 60,
+          "tolerance": 20,
+          "heat": 0.7,
+          "instruction": "加入虾仁、调味翻匀",
+          "action": "stir"
+        }
+      ],
+      "source": "https://thewoksoflife.com/shrimp-fried-rice/"
+    },
+    {
+      "id": "dish18",
+      "name": "香菇青菜",
+      "subtitle": "菌菇鲜香 · 梗叶有序",
+      "ingredients": [
+        25,
+        5
+      ],
+      "grams": "2 人份：鲜香菇 150g、小白菜 300g、油 15ml、生抽 10ml",
+      "steps": [
+        {
+          "title": "清洗蔬菜",
+          "station": "洗菜池",
+          "ingredients": [
+            25,
+            5
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "流水清洗蔬菜；滑动搓洗后沥干。生肉不在此水池冲洗。",
+          "action": "wash"
+        },
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            25,
+            5,
+            13
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "香菇切片，青菜梗叶分开。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "煸炒香菇",
+          "station": "炒锅",
+          "ingredients": [
+            25,
+            13
+          ],
+          "seconds": 180,
+          "tolerance": 40,
+          "heat": 0.65,
+          "instruction": "蒜片炒香后加入香菇，炒至软化",
+          "action": "stir"
+        },
+        {
+          "title": "加入菜梗",
+          "station": "炒锅",
+          "ingredients": [
+            25,
+            5
+          ],
+          "seconds": 60,
+          "tolerance": 20,
+          "heat": 0.8,
+          "instruction": "先下较厚菜梗翻炒",
+          "action": "stir"
+        },
+        {
+          "title": "菜叶调味",
+          "station": "炒锅",
+          "ingredients": [
+            25,
+            5,
+            49
+          ],
+          "seconds": 60,
+          "tolerance": 20,
+          "heat": 0.75,
+          "instruction": "加入菜叶、生抽和盐，炒至断生",
+          "action": "stir"
+        }
+      ],
+      "source": "https://chinasichuanfood.com/bok-choy-and-mushroom/"
+    },
+    {
+      "id": "dish19",
+      "name": "番茄蛋花汤",
+      "subtitle": "先炒出汁 · 沸后淋蛋",
+      "ingredients": [
+        0,
+        1,
+        15
+      ],
+      "grams": "2 人份：番茄 300g、鸡蛋 2 个、水 700ml、盐 3g",
+      "steps": [
+        {
+          "title": "清洗蔬菜",
+          "station": "洗菜池",
+          "ingredients": [
+            0,
+            15
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "流水清洗蔬菜；滑动搓洗后沥干。生肉不在此水池冲洗。",
+          "action": "wash"
+        },
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            0,
+            15
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "番茄切块，葱切末。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "调味备料",
+          "station": "备料台",
+          "ingredients": [
+            1
+          ],
+          "seconds": 45,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "将鸡蛋打散。滑动拌匀。",
+          "action": "mix"
+        },
+        {
+          "title": "炒软番茄",
+          "station": "炒锅",
+          "ingredients": [
+            0
+          ],
+          "seconds": 300,
+          "tolerance": 60,
+          "heat": 0.6,
+          "instruction": "炒到软化出汁",
+          "action": "stir"
+        },
+        {
+          "title": "煮开汤底",
+          "station": "煮锅",
+          "ingredients": [
+            0
+          ],
+          "seconds": 180,
+          "tolerance": 45,
+          "heat": 1,
+          "instruction": "加入热水，保持沸腾后调盐",
+          "action": "simmer"
+        },
+        {
+          "title": "淋蛋成花",
+          "station": "煮锅",
+          "ingredients": [
+            0,
+            1,
+            15
+          ],
+          "seconds": 45,
+          "tolerance": 15,
+          "heat": 0.95,
+          "instruction": "缓慢淋入蛋液，稍凝固再轻推，撒葱花",
+          "action": "simmer"
+        }
+      ],
+      "source": "https://thewoksoflife.com/tomato-egg-drop-soup/"
+    },
+    {
+      "id": "dish20",
+      "name": "西葫芦炒蛋",
+      "subtitle": "瓜片鲜甜 · 鸡蛋柔嫩",
+      "ingredients": [
+        30,
+        1,
+        13
+      ],
+      "grams": "2 人份：西葫芦 350g、鸡蛋 3 个、蒜 10g、油 18ml",
+      "steps": [
+        {
+          "title": "清洗蔬菜",
+          "station": "洗菜池",
+          "ingredients": [
+            30
+          ],
+          "seconds": 30,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "流水清洗蔬菜；滑动搓洗后沥干。生肉不在此水池冲洗。",
+          "action": "wash"
+        },
+        {
+          "title": "切配食材",
+          "station": "砧板",
+          "ingredients": [
+            30,
+            13
+          ],
+          "seconds": 45,
+          "tolerance": 25,
+          "heat": 0,
+          "instruction": "西葫芦切 3mm 片，蒜切末。在砧板滑动切配。",
+          "action": "cut"
+        },
+        {
+          "title": "调味备料",
+          "station": "备料台",
+          "ingredients": [
+            1,
+            50
+          ],
+          "seconds": 45,
+          "tolerance": 15,
+          "heat": 0,
+          "instruction": "打散鸡蛋，以少许盐调味。滑动拌匀。",
+          "action": "mix"
+        },
+        {
+          "title": "炒蛋盛出",
+          "station": "炒锅",
+          "ingredients": [
+            1
+          ],
+          "seconds": 60,
+          "tolerance": 20,
+          "heat": 0.6,
+          "instruction": "鸡蛋推炒凝固后盛出",
+          "action": "stir"
+        },
+        {
+          "title": "炒瓜片",
+          "station": "炒锅",
+          "ingredients": [
+            30,
+            13
+          ],
+          "seconds": 150,
+          "tolerance": 35,
+          "heat": 0.75,
+          "instruction": "蒜香后下瓜片，炒到略透明",
+          "action": "stir"
+        },
+        {
+          "title": "合炒调味",
+          "station": "炒锅",
+          "ingredients": [
+            30,
+            1
+          ],
+          "seconds": 45,
+          "tolerance": 15,
+          "heat": 0.65,
+          "instruction": "鸡蛋回锅，加盐翻匀",
+          "action": "stir"
+        }
+      ],
+      "source": "https://thewoksoflife.com/zucchini-stir-fry-chicken/"
+    }
+  ]
+}
