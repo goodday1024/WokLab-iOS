@@ -1,0 +1,42 @@
+name: Build unsigned iOS IPA
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: macos-15
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Xcode project
+        run: |
+          brew install xcodegen
+          xcodegen generate
+      - name: Build device app
+        run: |
+          set -o pipefail
+          xcodebuild -project WokLab.xcodeproj -scheme WokLab -configuration Release -sdk iphoneos -destination 'generic/platform=iOS' -derivedDataPath build CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO build | tee build.log
+      - name: Package unsigned IPA
+        run: |
+          mkdir -p package/Payload
+          cp -R build/Build/Products/Release-iphoneos/WokLab.app package/Payload/
+          test -f package/Payload/WokLab.app/WokLab
+          cd package && zip -qry ../WokLab-unsigned.ipa Payload
+      - uses: actions/upload-artifact@v4
+        with:
+          name: WokLab-unsigned-IPA
+          path: WokLab-unsigned.ipa
+          retention-days: 30
+      - name: Run core and catalog tests
+        run: |
+          set -o pipefail
+          DEVICE=$(xcrun simctl list devices available -j | python3 -c 'import json,sys; d=json.load(sys.stdin); print(next(x["udid"] for a in d["devices"].values() for x in a if "iPhone" in x["name"]))')
+          xcodebuild -project WokLab.xcodeproj -scheme WokLab -destination "platform=iOS Simulator,id=$DEVICE" -derivedDataPath test-build CODE_SIGNING_ALLOWED=NO test | tee test.log
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: build-logs
+          path: '*.log'
